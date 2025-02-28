@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://zenandthetruth.github.io/fit-test-australia/sitemap.xml
+Sitemap: https://truthaboutfittest.com/sitemap.xml
